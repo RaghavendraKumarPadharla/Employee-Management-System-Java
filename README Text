@@ -1,0 +1,26 @@
+# Employee Management System (Java)
+
+This is a simple console-based Java application that allows users to:
+✔ Add Employee  
+✔ View All Employees  
+✔ Search Employee by ID  
+✔ Delete Employee  
+
+### Technologies Used
+- Core Java
+- OOP Principles (Class, Object, Encapsulation)
+- ArrayList for Data Storage
+- Scanner for User Input
+
+### Purpose
+This project demonstrates hands-on Java knowledge in real-world applications.
+
+### How to Run
+1️⃣ Compile the file  
+   → `javac EmployeeManagementSystem.java`  
+2️⃣ Run the program  
+   → `java EmployeeManagementSystem`
+
+---
+
+Developer: Padharla Raghavendra Kumar
